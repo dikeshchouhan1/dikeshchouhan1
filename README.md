@@ -18,8 +18,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/dikeshchouhan" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dikeshchouhan" height="30" width="40" />
+<a href="https://www.linkedin.com/in/dikesh-chouhan-00a667239/" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dikesh chouhan" height="30" width="40" />
 </a>
 <a href="https://instagram.com/dikeshchouhan" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dikeshchouhan" height="30" width="40" />
@@ -27,8 +27,8 @@
 <a href="https://www.youtube.com/c/dikeshchouhan" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="dikeshchouhan" height="30" width="40" />
 </a>
-<a href="https://www.leetcode.com/dikeshchouhan" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="dikeshchouhan" height="30" width="40" />
+<a href="https://leetcode.com/dikeshchouhan1/" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leetcode.svg" alt="dikeshchouhan1" height="30" width="40" />
 </a>
 <a href="https://auth.geeksforgeeks.org/user/dikeshchouhan" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="dikeshchouhan" height="30" width="40" />
